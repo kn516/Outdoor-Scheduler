@@ -1,8 +1,5 @@
-# Outdoor-Scheduler
+# Outdoor-Scheduler Website
 
-The plan
+This website is a scheduler for outdoor activities such as Running, Biking, and Hiking with me and other like minded people.
 
 
-Reference and inspiration from below youtube videos:
-https://www.youtube.com/watch?v=K-ccGZYRWzs
-https://www.youtube.com/watch?v=9cKsq14Kfsw
